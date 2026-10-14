@@ -1,0 +1,21 @@
+# Ejecutables compilados (sin extensión)
+hola_mundo
+punteros
+
+# Imágenes y capturas
+*.png
+*.jpg
+*.jpeg
+
+# Documentos de oficina
+*.odt
+*.docx
+*.pdf
+
+# Archivos temporales de LibreOffice
+*.~lock.*
+*~
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
