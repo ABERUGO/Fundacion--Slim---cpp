@@ -13,3 +13,5 @@ Este repositorio contiene soluciones a ejercicios de lógica y estructuras de da
 *   `punteros.c`: Ejercicio de uso de punteros y direcciones de memoria.
 *   `estructuras_unidimensionales.c`: Inserción de elementos en arreglos.
 *   `matriz.cpp`: Lectura y escritura de una matriz de 4x4.
+*   `factorial.c`: Cálculo de factorial utilizando un bucle iterativo.
+*   `factorial_recursivo.c`: Implementación de función recursiva para cálculo de factorial.
