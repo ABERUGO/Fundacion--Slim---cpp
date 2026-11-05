@@ -1,6 +1,8 @@
 # Ejecutables compilados (sin extensión)
 hola_mundo
 punteros
+matriz
+unidimensionales
 
 # Imágenes y capturas
 *.png
@@ -19,4 +21,3 @@ punteros
 # Archivos del sistema
 .DS_Store
 Thumbs.db
-unidimensionales
